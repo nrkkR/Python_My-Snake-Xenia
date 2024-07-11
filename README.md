@@ -51,6 +51,7 @@ Game Controls: Use arrow keys (Up, Down, Left, Right) to control the snake's mov
 Objective: Eat as many food items as possible without running into the boundaries or the snake's own body.
 
 ## Screenshots
+<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/JS_Tic-Tac-Toe-Game/blob/main/tictactoe_JS_startup%20menu.png">
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
