@@ -9,7 +9,6 @@ Welcome to Snake Xenia, a Python-based Snake game with a graphical user interfac
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation and Setup](#installation-and-setup)
 - [How to Play](#how-to-play)
 - [Screenshots](#screenshots)
 - [License](#license)
@@ -23,27 +22,25 @@ Welcome to Snake Xenia, a Python-based Snake game with a graphical user interfac
 Snake Xenia is a classic arcade game where the player controls a snake that moves around the screen, eating food to grow longer. The game ends if the snake runs into the screen boundaries or itself. This game is built using Python and Pygame library, providing a simple yet engaging gameplay experience.
 
 ## Features
+Fluid Movement and Screen Wrapping
+Snake Xenia features smooth, fluid movement for the snake, ensuring a seamless gaming experience. Additionally, the game allows the snake to wrap around the screen edges seamlessly. This means when the snake moves off-screen on one side, it reappears on the opposite side, creating a continuous play area without boundaries.
 
-- Snake movement controlled using arrow keys.
-- Food items randomly generated on the screen.
-- Snake grows longer with each food item eaten.
-- Game over if the snake runs into the screen boundaries or itself.
-- Professional GUI with graphical elements for better user experience.
+Dynamic Snake Appearance
+The snake in Snake Xenia has been designed with a sleek, light green appearance, ensuring visibility and aesthetics. It moves realistically and grows longer as it consumes food, without losing its smooth movement.
+
+Enhanced Food Visuals
+Food items in Snake Xenia glow in red, making them highly visible against the game background. This enhances the player's ability to quickly identify and consume food for score increments.
+
+Engaging Welcome Screen
+Snake Xenia starts with a welcoming "Welcome to Rajdeep's Snake Xenia" screen. Players are prompted to press Enter to start the game, adding a professional and interactive touch to the gaming experience.
+
+Game Over Condition
+The game ends when the snake collides with itself, promoting strategic gameplay where players must maneuver carefully to avoid self-collision while collecting food.
 
 ## Requirements
 
 - Python 3.x
 - Pygame library
-
-## Installation and Setup
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/nrkkR/snake-xenia.git
-   cd snake-xenia
-
-   nstall Pygame:
 
 ## How to Play
 Start Screen: When you run the game, a welcome screen will appear.
@@ -51,9 +48,9 @@ Game Controls: Use arrow keys (Up, Down, Left, Right) to control the snake's mov
 Objective: Eat as many food items as possible without running into the boundaries or the snake's own body.
 
 ## Screenshots
-<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_%20Welcome%20screen.png">
-<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Main%20game%20screen.png">
-<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/JS_Tic-Tac-Toe-Game/blob/main/tictactoe_JS_startup%20menu.png">
+<img align="center" alt="coding" width="700" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_%20Welcome%20screen.png">
+<img align="center" alt="coding" width="700" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Main%20game%20screen.png">
+<img align="center" alt="coding" width="700" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_Game%20Over%20screen.png">
 
 
 ## License
