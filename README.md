@@ -40,7 +40,7 @@ Snake Xenia is a classic arcade game where the player controls a snake that move
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/snake-xenia.git
+   git clone https://github.com/nrkkR/snake-xenia.git
    cd snake-xenia
 
    nstall Pygame:
@@ -51,7 +51,7 @@ Game Controls: Use arrow keys (Up, Down, Left, Right) to control the snake's mov
 Objective: Eat as many food items as possible without running into the boundaries or the snake's own body.
 
 ## Screenshots
-<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/JS_Tic-Tac-Toe-Game/blob/main/tictactoe_JS_startup%20menu.png">
+<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/Python_My-Snake-Xenia/blob/main/My%20Snake%20Xenia%20_%20Welcome%20screen.png">
 <img align="center" alt="coding" width="350" src="https://github.com/nrkkR/JS_Tic-Tac-Toe-Game/blob/main/tictactoe_JS_startup%20menu.png">
 <img align="center" alt="coding" width="350" src="https://github.com/nrkkR/JS_Tic-Tac-Toe-Game/blob/main/tictactoe_JS_startup%20menu.png">
 
