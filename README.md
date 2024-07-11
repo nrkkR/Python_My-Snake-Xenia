@@ -52,6 +52,9 @@ Objective: Eat as many food items as possible without running into the boundarie
 
 ## Screenshots
 <img align="center" alt="coding" width="350" src="https://github.com/nrkkR/JS_Tic-Tac-Toe-Game/blob/main/tictactoe_JS_startup%20menu.png">
+<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/JS_Tic-Tac-Toe-Game/blob/main/tictactoe_JS_startup%20menu.png">
+<img align="center" alt="coding" width="350" src="https://github.com/nrkkR/JS_Tic-Tac-Toe-Game/blob/main/tictactoe_JS_startup%20menu.png">
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -66,10 +69,17 @@ Acknowledge any third-party libraries or resources used in the project.
 4. Push to the branch (git push origin feature/AmazingFeature).
 5. Open a pull request.
 
-## Author
+## Technologies Used
+
+- Python
 
 
-## Contact
+
+## Credits
+
+- Created by Rajdeep Mondal
+- GitHub: [nrkkR](https://github.com/nrkkR)
+- LinkedIn: [Rajdeep Mondal](https://www.linkedin.com/in/rajdeep-mondal-a277a9317/)
 
 
   
